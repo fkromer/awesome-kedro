@@ -13,7 +13,7 @@
 - [Documentation](#documentation)
 - [Community](#community)
 
-## [Plugins](https://kedro.readthedocs.io/en/stable/07_extend_kedro/05_plugins.html)
+## [Plugins](https://docs.kedro.org/en/stable/extend_kedro/plugins.html)
 
 - [kedro-accelerator](https://github.com/deepyaman/kedro-accelerator/) - Speeds up pipelines by parallelizing I/O in the background.
 - [kedro-airflow](https://pypi.org/project/kedro-airflow/) - Makes it easy to deploy Kedro projects to Airflow.
@@ -85,12 +85,11 @@
 
 ## Documentation
 
-- [Documentation](kedro.readthedocs.io)
+- [Documentation](https://docs.kedro.org)
 
 ## Community
 
-- [Forum](https://discourse.kedro.community/)
 - [Stackoverflow (tag:kedro)](https://stackoverflow.com/questions/tagged/kedro)
 - [kedro-plugin](https://github.com/topics/kedro-plugin) topic on GitHub
 - [#kedro](https://dev.to/t/kedro) tag on dev.to
-- [kedro-community](https://github.com/quantumblacklabs/kedro-community) github repo
+- [kedro-community](https://github.com/kedro-org/kedro-community) github repo
