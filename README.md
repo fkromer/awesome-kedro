@@ -4,6 +4,11 @@
 
 > A framework for creating reproducible, maintainable and modular data science code.
 
+DEPRECATION NOTICE:
+This repository is in the process to being handed over to the
+[kedro-org](https://github.com/kedro-org) organization. Please contribute to
+[astrojuanlu/awesome-kedro](https://github.com/astrojuanlu/awesome-kedro) instead.
+
 ## Contents
 
 - [Plugins](#plugins)
